@@ -15,3 +15,4 @@ flask_wtf==0.15.1
 flask_sqlalchemy==2.5.1
 flask_migrate==3.1.0
 ua_parser
+python-dotenv
